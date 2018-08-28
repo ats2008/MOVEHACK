@@ -18,7 +18,7 @@ then go to the weblink (ip adress)shown in the terminal
 __________________________________________________________
 
 for feedback copy the feedback comments to the .csv file in the directory. (currently we have some comments on Ho-Ho buses and delhi metro rail in the file,so the result shown will be it analyzed on the taffic based general heads). 
-Also , once the app is up and running the feedback from the apps database can directly be analyzed by the admin.
+Also , once the app is up and running the feedback from the apps database can directly be analyzed by the admin.The number of such comments we have is less so the analysis is much less accurate compared to what it can really do.
 
 __________________________________________________________
 
